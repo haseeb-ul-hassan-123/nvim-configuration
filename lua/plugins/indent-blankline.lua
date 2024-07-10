@@ -1,0 +1,25 @@
+return {
+	-- "lukas-reineke/indent-blankline.nvim",
+	-- main = "ibl",
+	-- opts = {},
+	-- config = function()
+	-- 	require("ibl").setup({
+	-- 		exclude = {
+	-- 			filetypes = {
+	-- 				"dashboard",
+	-- 				"typescript",
+	-- 				"javascript",
+	-- 				"ts",
+	-- 				"js",
+	-- 			},
+	-- 		},
+	-- 		scope = {
+	-- 			enabled = false,
+	-- 			show_start = false,
+	-- 			show_end = false,
+	--
+	-- 			exclude = { language = { "lua", "json", "ts", "js" } },
+	-- 		},
+	-- 	})
+	-- end,
+}
